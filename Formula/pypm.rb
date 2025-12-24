@@ -2,7 +2,7 @@ class Pypm < Formula
   desc "Simple Python package manager (pypm + pypx)"
   homepage "https://github.com/kunshbisht/pypm"
   url "https://github.com/kunshbisht/pypm/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "ee13d6db619999a885c08c0a1f6c6836517d06e9373c9385e30433ba3e0e151c"
+  sha256 "57b62a05b491049c56154df1450e77246108d9c8d2f9f6fcb768d8aec504703f"
   license "MIT"
 
   def install
